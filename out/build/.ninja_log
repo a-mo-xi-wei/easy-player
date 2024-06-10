@@ -1,0 +1,21 @@
+# ninja log v5
+2	986	7395366534896867	CMakeFiles/test_libvlc.dir/main.cpp.obj	a2606d99cbfc5a96
+195	1629	7396929631396003	CMakeFiles/Player.dir/Player.cpp.obj	8225be11e147876d
+5	193	7396929617071432	F:/code_review/Qt-WorkSpace/libvlc-cmake/out/build/Player_autogen/timestamp	9f13173732afb45e
+333	1450	7396912947804875	CMakeFiles/Player.dir/main.cpp.obj	2dbe9ac01efbdb6d
+2	984	7395367372529211	CMakeFiles/Widget.dir/main.cpp.obj	690f9fe5b4635ae4
+3	487	7396932315092159	build.ninja	c26c940934acde8b
+5	193	7396929617071432	F:/code_review/Qt-WorkSpace/libvlc-cmake/out/build/Player_autogen/mocs_compilation.cpp	9f13173732afb45e
+5	193	7396929617071432	Player_autogen/timestamp	9f13173732afb45e
+5	193	7396929617071432	Player_autogen/mocs_compilation.cpp	9f13173732afb45e
+329	1449	7396912947794827	CMakeFiles/Player.dir/Player_autogen/mocs_compilation.cpp.obj	23dc9c89bf7718bb
+1629	1863	7396929633346811	Player.exe	f9ff875801a64600
+5	90	7396899619900999	Player_autogen/EWIEGA46WW/qrc_Res.cpp	1f0b8abefab6fe77
+5	90	7396899619900999	F:/code_review/Qt-WorkSpace/libvlc-cmake/out/build/Player_autogen/EWIEGA46WW/qrc_Res.cpp	1f0b8abefab6fe77
+90	154	7396899620560805	CMakeFiles/Player.dir/Player_autogen/EWIEGA46WW/qrc_Res.cpp.obj	b7263eaab5049336
+5	207	7396932413871722	Player_autogen/timestamp	9f13173732afb45e
+5	207	7396932413871722	Player_autogen/mocs_compilation.cpp	9f13173732afb45e
+5	207	7396932413871722	F:/code_review/Qt-WorkSpace/libvlc-cmake/out/build/Player_autogen/timestamp	9f13173732afb45e
+5	207	7396932413871722	F:/code_review/Qt-WorkSpace/libvlc-cmake/out/build/Player_autogen/mocs_compilation.cpp	9f13173732afb45e
+208	1689	7396932428666715	CMakeFiles/Player.dir/Player.cpp.obj	8225be11e147876d
+1690	1927	7396932430632946	Player.exe	f9ff875801a64600

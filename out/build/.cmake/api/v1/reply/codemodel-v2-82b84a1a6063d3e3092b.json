@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Player",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Player::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Player-Debug-46d034e42290838ae09e.json",
+					"name" : "Player",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Player_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Player_autogen-Debug-8bea98bec994666faf93.json",
+					"name" : "Player_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Player_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Player_autogen_timestamp_deps-Debug-fc469dff143a1e5d1bbd.json",
+					"name" : "Player_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "F:/code_review/Qt-WorkSpace/libvlc-cmake/out/build",
+		"source" : "F:/code_review/Qt-WorkSpace/libvlc-cmake"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

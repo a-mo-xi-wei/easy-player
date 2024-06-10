@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Res/player.png</file>
+        <file>Res/pause.png</file>
+        <file>Res/change.png</file>
+        <file>Res/1.5.png</file>
+        <file>Res/1.png</file>
+        <file>Res/2.png</file>
+        <file>Res/style.qss</file>
+        <file>Res/down.png</file>
+    </qresource>
+</RCC>

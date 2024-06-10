@@ -1,0 +1,30 @@
+{
+	"BUILD_DIR" : "F:/code_review/Qt-WorkSpace/libvlc-cmake/out/build/Player_autogen",
+	"CMAKE_BINARY_DIR" : "F:/code_review/Qt-WorkSpace/libvlc-cmake/out/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "F:/code_review/Qt-WorkSpace/libvlc-cmake/out/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "F:/code_review/Qt-WorkSpace/libvlc-cmake",
+	"CMAKE_SOURCE_DIR" : "F:/code_review/Qt-WorkSpace/libvlc-cmake",
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "F:/code_review/Qt-WorkSpace/libvlc-cmake/out/build/Player_autogen/include",
+	"INPUTS" : 
+	[
+		"F:/code_review/Qt-WorkSpace/libvlc-cmake/Res/2.png",
+		"F:/code_review/Qt-WorkSpace/libvlc-cmake/Res/1.png",
+		"F:/code_review/Qt-WorkSpace/libvlc-cmake/Res/style.qss",
+		"F:/code_review/Qt-WorkSpace/libvlc-cmake/Res/pause.png",
+		"F:/code_review/Qt-WorkSpace/libvlc-cmake/Res/down.png",
+		"F:/code_review/Qt-WorkSpace/libvlc-cmake/Res/1.5.png",
+		"F:/code_review/Qt-WorkSpace/libvlc-cmake/Res/change.png",
+		"F:/code_review/Qt-WorkSpace/libvlc-cmake/Res/player.png"
+	],
+	"LOCK_FILE" : "F:/code_review/Qt-WorkSpace/libvlc-cmake/out/build/CMakeFiles/Player_autogen.dir/AutoRcc_Res_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "Res" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_Res.cpp",
+	"RCC_EXECUTABLE" : "F:/Qt/6.5.2/msvc2019_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "F:/code_review/Qt-WorkSpace/libvlc-cmake/out/build/CMakeFiles/Player_autogen.dir/AutoRcc_Res_EWIEGA46WW_Used.txt",
+	"SOURCE" : "F:/code_review/Qt-WorkSpace/libvlc-cmake/Res.qrc",
+	"VERBOSITY" : 0
+}
